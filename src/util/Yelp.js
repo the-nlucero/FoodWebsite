@@ -1,5 +1,5 @@
 
-const apiKey = 'ql3nHPTSd3I4WBmRk5pzvos0RdXyVqOkaNFkg8affBib1tDpIUGMCq4yiqZ10FBPwdSL3frdQKIi_XhzLdgHS06KUuQNwIyrD9ZVFXl_X8MobLPvsGkmEiIPRc38YXYx';
+const apiKey = 'PasteYelpAPI';
 
 const yelp = 
 {
