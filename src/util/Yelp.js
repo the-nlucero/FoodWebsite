@@ -1,5 +1,5 @@
 
-const apiKey = 'PasteYelpAPI';
+const apiKey = 'PasteYelpAPI_Here';
 
 const yelp = 
 {
