@@ -1,0 +1,18 @@
+*Side Notes
+*Assuming you've already created your React app within your command line (FIRST!)
+*Add the corresponding files to your project
+
+Step 1: Request temporary server access on https://cors-anywhere.herokuapp.com/corsdemo
+
+Step 2: Visit https://www.yelp.com/developers/v3/manage_app 
+
+Step 3: Make an account and create an account (name doesnt really matter)
+
+Step 4: Retreive Yelp API Client ID
+
+Step 5: Paste Id in the Yelp.js file within your project
+
+Step 6: npm start {projectname}
+
+*If app stops working request a new API key
+
